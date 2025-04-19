@@ -19,11 +19,14 @@ A simple and interactive quiz application built using **React**, **TypeScript**,
 
 ## 🛠 Tech Stack
 
-- [React](https://reactjs.org/)  
-- [TypeScript](https://www.typescriptlang.org/)  
-- [Tailwind CSS](https://tailwindcss.com/)  
-- [Framer Motion](https://www.framer.com/motion/)
+- React  
+- TypeScript  
+- Tailwind CSS  
+- Framer Motion
 
----
+
+![Screenshot 2025-04-17 164244](https://github.com/user-attachments/assets/9279e462-1806-4c26-bdea-c150c70ba509)
+
+
 
 
